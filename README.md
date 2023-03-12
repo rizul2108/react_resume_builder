@@ -1,4 +1,4 @@
-### Resume Mentor
+# Resume Mentor
 It is a Resume Builder website. For making this website I have used react.js for frontend and firebase as a backend service. I have used redux to maintain state of the fields where the user enters the info. I have provided authentication using firebase nad user's entered data is stored in firestore. 
  
 ## Visit my website using given link
