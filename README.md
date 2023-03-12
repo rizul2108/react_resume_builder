@@ -5,31 +5,31 @@ It is a Resume Builder website. For making this website I have used react.js for
 [Here is the link](https://resume-e8284.web.app/)
 
 ## Pages of my Website
--Main Landing page
+- Main Landing page
 ![1](https://user-images.githubusercontent.com/112455393/224555643-14767d5b-76dc-4dd0-a664-bd7698076004.png)
 
--Resume Templates 
+- Resume Templates 
 ![2](https://user-images.githubusercontent.com/112455393/224555725-ade89370-eaf7-4f85-8f7d-2978d4737173.png)
 
--Login Page
+- Login Page
 ![3](https://user-images.githubusercontent.com/112455393/224555731-18b813cc-9751-4ac8-b22a-27db33b01cf1.png)
 
--Register Page
+- Register Page
 ![Login](https://user-images.githubusercontent.com/112455393/224555850-ee2d9dc4-b793-4f56-bad3-0a5d65f8e8e3.png)
 
--About Us
+- About Us
 ![4](https://user-images.githubusercontent.com/112455393/224555763-a46c2e77-4925-43da-88ea-a365389c82c1.png)
 
--Personal Details
+- Personal Details
 ![5](https://user-images.githubusercontent.com/112455393/224555778-86c7bfd5-4fa8-4b02-8411-b33f77823127.png)
 
--Education Details
+- Education Details
 ![6](https://user-images.githubusercontent.com/112455393/224555783-8b8d0b8a-94b2-4034-af9d-e4e1dbd24da9.png)
 
--Past experience Details
+- Past experience Details
 ![7](https://user-images.githubusercontent.com/112455393/224555799-16ac8942-12d0-4b9e-abb5-b1df25be54d5.png)
 
--Final Resume Preview 
+- Final Resume Preview 
 ![8](https://user-images.githubusercontent.com/112455393/224555837-7ff127c2-c40c-40ec-af0b-2747d0789330.png)
 
 ## Dependencies
