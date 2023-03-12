@@ -4,9 +4,9 @@ It is a Resume Builder website. For making this website I have used react.js for
 ## Visit my website using given link
 [Here is the link](https://resume-e8284.web.app/)
 
-## 
+## Pages of my Website
 -Main Landing page
-[1](https://user-images.githubusercontent.com/112455393/224555643-14767d5b-76dc-4dd0-a664-bd7698076004.png)
+![1](https://user-images.githubusercontent.com/112455393/224555643-14767d5b-76dc-4dd0-a664-bd7698076004.png)
 
 -Resume Templates 
 ![2](https://user-images.githubusercontent.com/112455393/224555725-ade89370-eaf7-4f85-8f7d-2978d4737173.png)
