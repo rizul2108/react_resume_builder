@@ -4,7 +4,7 @@ It is a Resume Builder website. For making this website I have used react.js for
 ## Visit my website using given link
 [Here is the link](https://resume-e8284.web.app/)
 
-## Pages of my Website
+## **Pages of my Website**
 - Main Landing page
 ![1](https://user-images.githubusercontent.com/112455393/224555643-14767d5b-76dc-4dd0-a664-bd7698076004.png)
 
@@ -32,7 +32,7 @@ It is a Resume Builder website. For making this website I have used react.js for
 - Final Resume Preview 
 ![8](https://user-images.githubusercontent.com/112455393/224555837-7ff127c2-c40c-40ec-af0b-2747d0789330.png)
 
-## Languages Used
+## **Languages Used**
 1. Javascript
 2. CSS
   - SASS(Extension of CSS)
