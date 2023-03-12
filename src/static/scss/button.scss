@@ -1,0 +1,30 @@
+.btn {
+    color: black;
+
+    border-radius: 5px;
+    // height: 4rem;
+    padding: 2%;
+    border: none;
+    position: relative;
+    background: #5adbb5;
+    font-weight: 600;
+    &:hover {
+        color: black;
+        background: white;
+        border: 2px solid #5adbcd;
+    }
+    &.small{
+        border: 2px solid #5ae4ce;
+    padding: 7px !important;
+    border-radius: 0.6rem;
+    }
+    cursor: pointer;
+}
+
+.btn-back {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+    margin-top: 20px 0px;
+}

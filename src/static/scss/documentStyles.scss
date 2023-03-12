@@ -1,0 +1,132 @@
+.skin1{
+    .heading{
+        color: darkcyan;
+        font-size: 1.7rem;
+        width: 100%;
+        text-align: center;
+    }
+   
+    padding:3%;
+    .contact-name{
+        color: darkcyan;
+       text-align:center;
+        font-size: 2.5rem;
+        font-weight: bold;
+        padding: 5px 0px;
+    }
+    .address{
+        text-align:center;
+
+    }
+    .divider{
+        width: 100%;
+        border-bottom: 1px solid darkcyan;
+    }
+}
+.skin2{
+
+    .heading{
+        color: black;
+        font-size: 1.5rem;
+        width: 100%;
+        z-index: 100;
+        background-color: rgba(128, 128, 128, 0.2);
+        
+    }
+    padding:3%;
+    .contact-name{
+        color: black;
+       text-align: left;
+        font-size: 2.5rem;
+        font-weight: bold;
+        padding: 5px 0px;
+        vertical-align: middle;
+    }
+  
+    .grid-container{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        align-items: center;
+    }
+    #a{
+        width:120px;
+        line-height: 25px;
+        font-size: 30px;
+    }
+    #c{
+        width:162px;
+        text-align: right;
+    }
+    #b{
+        width:170px;
+        text-align: center;
+        padding :10px 0px 10px 0px;
+    }
+    .address{
+        padding: 5px 0px;
+    }
+    .right{
+        width:50px;
+        align-content: right;
+    }
+}
+.skin3{
+    *{margin:0;}
+
+    .heading{
+        color:black ;
+        font-size: 2.7rem;
+        width: 100%;
+        color: #449cff;
+    }
+    #a{
+        padding: 0;
+        margin:0;
+    }
+    #c{
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+    #b{
+        display: none;
+    }
+    padding:3%;
+    .contact-name{
+        text-align: center;
+        color: black;       
+        font-size: 50px;
+        font-weight: bold;
+        }
+    .address{
+        font-size: 15px;
+        padding: 5px 0px;
+        text-align: center;
+    }
+    
+}
+.skin4{
+    *{margin:0;}
+
+    .heading{
+        color: #005842;
+        font-size: 2rem;
+        width: 100%;
+        
+    }
+    padding:3%;
+    .contact-name{
+        color: #005842;
+       text-align: center;
+        font-size: 3.5rem;
+        font-weight: bold;
+        padding: 5px 0px;
+    }
+    .address{
+        text-align: center;
+        padding: 5px 0px;
+    }
+    .divider{
+        width: 100%;
+        border-bottom: 1px solid #005842;
+    }
+}

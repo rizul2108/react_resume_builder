@@ -1,0 +1,14 @@
+
+{
+    "document":{
+        "id":null,
+        "skinCd":""
+    },
+    "educationSection":null,
+    "experienceSection":null,
+    "contactSection":null,
+    "auth":{
+        "ErrorMessage":"",
+        "loading":false
+    }
+}
