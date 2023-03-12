@@ -32,6 +32,12 @@ It is a Resume Builder website. For making this website I have used react.js for
 - Final Resume Preview 
 ![8](https://user-images.githubusercontent.com/112455393/224555837-7ff127c2-c40c-40ec-af0b-2747d0789330.png)
 
+## Languages Used
+1. Javascript
+2. CSS
+  - SASS(Extension of CSS)
+3. React JS
+
 ## Dependencies
 - npm i uuid 
 - npm i redux react-redux redux-devtools-extension
