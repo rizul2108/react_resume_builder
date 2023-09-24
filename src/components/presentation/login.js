@@ -5,7 +5,6 @@ import { isLoaded } from 'react-redux-firebase'
 import { useNavigate } from "react-router";
 
   function Login(props) {
-    console.log(props);
     let navigate = useNavigate();
     const [email,setEmail] = useState('');
     const [password,setPassword]= useState('');
@@ -23,7 +22,6 @@ const handlePassword=(e)=>{
     const onSubmit=()=>{
     
       let obj = {email:email,password:password}
-      console.log(obj)
       props.signIn(obj)
     }
 

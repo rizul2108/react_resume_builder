@@ -6,16 +6,17 @@ const Lp = () => {
     <div className=" container med   about-page">
       <div className="section contact-section">
         <div className="  contact-left-section center">
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
           <h1>Create a resume for free that stands out</h1>
           <p>
-            With the help of us, Applying for your dream job is very easy and fast
+            With the help of us, Applying for your dream job is very easy and
+            fast
           </p>
           <br />
 
@@ -24,7 +25,7 @@ const Lp = () => {
           </NavLink>
         </div>
         <div className="contact-right-section">
-          <img src={logo} width="340px"className="lp-resume" alt="logo" />
+          <img src={logo} width="340px" className="lp-resume" alt="logo" />
         </div>
       </div>
     </div>

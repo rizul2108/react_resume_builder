@@ -1,10 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { NavLink } from "react-router-dom";
-// import update from 'immutability-helper';
 import { fieldCd } from '../../constants/typeCodes';
 import * as contactActions from '../../actions/contactActions';
-// import { bindActionCreators } from 'redux';
-// import { withRouter } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import ResumePreview from './resumePreview'
 import { connect } from "react-redux";

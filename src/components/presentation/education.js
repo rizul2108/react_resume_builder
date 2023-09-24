@@ -8,7 +8,6 @@ import { useNavigate } from "react-router-dom";
 
 function Education(props) {
 
-  console.log(props);
   let navigate = useNavigate();
   const [education,setEducation]= useState(props.educationSection);
 

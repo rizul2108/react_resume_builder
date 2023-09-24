@@ -4,7 +4,6 @@ import ResumePreview from './resumePreview'
 import { fieldCd} from '../../constants/typeCodes';
 import { connect } from 'react-redux'
 import * as experienceActions from '../../actions/experienceActions';
-// import {bindActionCreators} from 'redux';
 import { useNavigate } from "react-router-dom";
 
 function Experience(props) {
